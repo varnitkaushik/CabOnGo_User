@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1091739752205",
+    "firebase_url": "https://cabongo-cd621-default-rtdb.firebaseio.com",
+    "project_id": "cabongo-cd621",
+    "storage_bucket": "cabongo-cd621.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091739752205:android:411f73223054dbd2dec244",
+        "android_client_info": {
+          "package_name": "com.UPES.cabongo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091739752205-ud2buroi8q2sunkfig9ca0cmmm7s8oll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOeQhpvrawKfCrsHPirFrYhSGKPTDeHao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091739752205-ud2buroi8q2sunkfig9ca0cmmm7s8oll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091739752205:android:b645cd773d575ff6dec244",
+        "android_client_info": {
+          "package_name": "com.UPES.cabongousersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091739752205-ud2buroi8q2sunkfig9ca0cmmm7s8oll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOeQhpvrawKfCrsHPirFrYhSGKPTDeHao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091739752205-ud2buroi8q2sunkfig9ca0cmmm7s8oll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
